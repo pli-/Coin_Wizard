@@ -33,7 +33,7 @@ The goal of the game is to collect all the coins!
 *	Instead of pressing the red x button in the top right corner, 
       you can press the quit button on the menu screen to exit the game.
       
-##Limitations: 
+##Limitations and Future Releases: 
  The maps are not randomly generated as we would have liked, 
 because of the difficulty and time involved with randomly generating maps.  
 Also, several gameplay elements were not included in the interest of time. 
