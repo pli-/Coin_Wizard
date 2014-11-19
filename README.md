@@ -33,13 +33,13 @@ The goal of the game is to collect all the coins!
 *	Instead of pressing the red x button in the top right corner, 
       you can press the quit button on the menu screen to exit the game.
       
-##Limitations and Future Releases: 
- The maps are not randomly generated as we would have liked, 
+##Limitations and Future Updates: 
+* The maps are not randomly generated as we would have liked, 
 because of the difficulty and time involved with randomly generating maps.  
-Also, several gameplay elements were not included in the interest of time. 
-These included bombs, keys, and bosses.  
-The AI is also quite simple as the monsters constantly try to move in your direction. 
-If we had more time on the project, we could improve the AI so that the monsters
+* Also, several gameplay elements were not included in the interest of time. 
+ * These included bombs, keys, and bosses.  
+* The AI is also quite simple as the monsters constantly try to move in your direction. 
+* If we had more time on the project, we could improve the AI so that the monsters
 would try to flank the character so as to make the room more difficult. 
-Stat upgrades were also not implemented in this release. 
-In a future release, we would like to include items which improve max health, damage and speed.  	     
+* Stat upgrades were also not implemented in this release. 
+* In a future release, we would like to include items which improve max health, damage and speed.  	     
